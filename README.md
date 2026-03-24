@@ -1,5 +1,3 @@
-# Python File Automation Script
-
 # Project Description
 This project is a Python-based automation script that organizes files into different folders based on their types such as Images, Documents, Videos, and Audio. It helps in managing files efficiently and reduces manual effort.
 
@@ -30,5 +28,10 @@ Python-Automation-Script/
 │
 ├── main.py
 ├── log.txt
-├── screenshots/
-└── report.pdf
+└── test_folder/
+    │
+    ├── Audio
+    ├── Compressed
+    ├── Documents
+    ├── Images
+    └── Videos
